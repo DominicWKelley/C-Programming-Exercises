@@ -3,13 +3,14 @@
 double km_to_miles(double km);
 double km_to_nautical_miles(double km);
 
-
 int main(void)
 {
     double start_km = 0;
     double end_km = 0;
     double step_km = 0;
     double current_km = 0;
+
+    printf("\n\n\n");
 
     do
     {
@@ -34,10 +35,6 @@ int main(void)
         if (step_km <= 0 )
             printf("Step km not > 0\n");
     } while (step_km <= 0);
-
-    printf("Start: %f\n", start_km);
-    printf("End: %f\n", end_km);
-    printf("Step: %f\n", step_km); 
     
     printf("\n\n\n");
     printf("%-20s%-20s%-20s\n", "Kilometers", "Miles", "Nautical");
@@ -49,7 +46,7 @@ int main(void)
             km_to_miles(current_km),
             km_to_nautical_miles(current_km));
     }
-
+    printf("\n\n\n");
     return 0;
 }
 
