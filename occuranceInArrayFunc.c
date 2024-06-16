@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #3
+// Count the occurrences of a value in an array.
+
 #include <stdio.h>
 
 int occurances(int array[], int length, int toFind);

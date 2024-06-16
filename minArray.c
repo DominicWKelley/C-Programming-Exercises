@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #1
+// Find the minimum number in an array.
+
 #include <stdio.h> 
 
 int main(void)

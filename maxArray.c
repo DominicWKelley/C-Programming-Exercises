@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #2
+// Find the maximum number in an array.
+
 #include <stdio.h>
 
 int main(void)
