@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #18
+// Dot product.
+
 #include <stdio.h>
 
 // dot product example

@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #17
+// Vector addition.
+
 #include <stdio.h>
 
 // vector addition

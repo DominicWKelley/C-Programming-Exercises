@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #12
+// Dice roll simulator.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

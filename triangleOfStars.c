@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #27
+// Output a triangle of stars.
+
 #include <stdio.h>
 int main(void)
 {

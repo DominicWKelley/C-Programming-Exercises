@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #5
+// Check if string is a palindrome.
+
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>

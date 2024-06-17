@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #11
+// String append with dynamic memeory.
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

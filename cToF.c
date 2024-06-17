@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #8
+// Convert celsius to fahtenheit.
+
 #include <stdio.h>
 
 int main(void)

@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #24
+// Converting kilometers to miles.
+
 #include <stdio.h>
 
 double km_to_miles(double km);

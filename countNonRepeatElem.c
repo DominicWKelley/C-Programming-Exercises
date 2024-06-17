@@ -1,4 +1,5 @@
 // Portfolio Courses C Programming Examples #33
+// Count non-repeating array elements.
 
 #include <stdio.h>
 

@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #15
+// Determine if a year is a leap year and display results in a table.
+
 #include <stdio.h>
 #include <stdbool.h>
 

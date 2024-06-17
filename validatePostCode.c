@@ -1,4 +1,5 @@
 // Portfolio Courses C Programming Examples #25
+// String format validation.
 
 #include <stdio.h>
 #include <string.h>

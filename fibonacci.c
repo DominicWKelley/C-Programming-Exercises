@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #9
+// Computing the Fibonacci Sequence.
+
 #include <stdio.h>
 
 /*0,1,1,2,3,5,8, etc.*/

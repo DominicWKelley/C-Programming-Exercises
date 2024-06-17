@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #14
+// Create a copy of an array.
+
 #include <stdio.h>
 #include <stdlib.h>
 

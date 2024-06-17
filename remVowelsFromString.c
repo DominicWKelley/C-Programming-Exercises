@@ -1,4 +1,5 @@
 // Portfolio Courses C Programming Examples #28
+// Remove all vowels from a string.
 
 #include <stdio.h>
 #include <string.h>

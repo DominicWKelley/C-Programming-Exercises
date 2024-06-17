@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #21
+// Convert binary to decimal.
+
 #include <stdio.h>
 #include <string.h>
 // 10101 binary -> decimal

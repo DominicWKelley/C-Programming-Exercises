@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #20
+// Removing all occurrences of a character from a string.
+
 #include <stdio.h>
 
 void remove_char(char *string, char r);

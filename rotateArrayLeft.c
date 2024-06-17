@@ -1,4 +1,5 @@
 // Portfolio Courses C Programming Examples #30
+// Rotate an array left.
 
 #include <stdio.h>
 

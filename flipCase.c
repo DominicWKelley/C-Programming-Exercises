@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #13
+// Flip a string's lowercase characters to uppercase and vice versa.
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

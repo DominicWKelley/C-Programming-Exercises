@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #4
+// Reverse an array.
+
 #include <stdio.h>
 
 void reverseArray(int array[], int length);

@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #10
+// Counting values in a string.
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

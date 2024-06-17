@@ -1,4 +1,5 @@
 // Portfolio Courses C Programming Examples #32
+// Merge two sorted arrays.
 
 #include <stdio.h>
 

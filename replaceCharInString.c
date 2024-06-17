@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #22
+// Replace a character in a string with another character.
+
 #include <stdio.h>
 #include <string.h>
 

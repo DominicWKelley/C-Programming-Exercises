@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #7
+// Compute the average of an array.
+
 #include <stdio.h>
 
 double avg(double array[], int length);

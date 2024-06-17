@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #23
+// Infinite input buffer.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>

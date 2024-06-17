@@ -1,4 +1,5 @@
 // Portfolio Courses C Programming Examples #29
+// Check if arrays are disjoint.
 
 #include <stdio.h>
 #include <stdbool.h>

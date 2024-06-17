@@ -1,3 +1,6 @@
+// Portfolio Courses C Programming Examples #19
+// Counting occurrences of a word in a string.
+
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
