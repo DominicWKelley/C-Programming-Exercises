@@ -1,6 +1,7 @@
 // Portfolio Courses C Programming Examples #43
 // Find length of smallest word in a string.
 
+
 #include <stdio.h>
 #include <string.h>
 
