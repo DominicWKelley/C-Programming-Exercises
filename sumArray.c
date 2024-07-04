@@ -1,6 +1,7 @@
 // Portfolio Courses C Programming Examples #6
 // Sum the values in an array.
 
+
 #include <stdio.h>
 
 int sum(int array[], int length);
