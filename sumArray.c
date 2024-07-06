@@ -22,7 +22,6 @@ int main(void)
     int total3 = sum(myArray3, length3);
     printf("%d\n", total3);
 
-
     return 0;
 }
 
@@ -36,4 +35,3 @@ int sum(int array[], int length)
     }
     return sumValue;
 }
-
