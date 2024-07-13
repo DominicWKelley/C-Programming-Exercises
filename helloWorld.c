@@ -3,8 +3,7 @@
 
 #include <stdio.h>
 
-int main()
-{
+int main() {
 
   // This is a comment
 

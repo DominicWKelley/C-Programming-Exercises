@@ -3,17 +3,16 @@
 
 #include <stdio.h>
 
-int main(void)
-{
-    FILE *fp;
-    char c;
+int main(void) {
+  FILE *fp;
+  char c;
 
-    fp = fopen(__FILE__, "r");
+  fp = fopen(__FILE__, "r");
 
-    while (  (c = getc(fp)) != EOF  )
-        putchar(c);
+  while ((c = getc(fp)) != EOF)
+    putchar(c);
 
-    fclose(fp);
+  fclose(fp);
 
-    return 0;
+  return 0;
 }
