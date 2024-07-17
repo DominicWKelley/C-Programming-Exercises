@@ -15,7 +15,7 @@
 bool verify_password(char *p);
 
 int main(void) {
-  char p[] = "Axfgh";
+  char p[] = "Ax5@sbcdefgh";
   bool result = verify_password(p);
   if (result)
     printf("Verified password!\n");
