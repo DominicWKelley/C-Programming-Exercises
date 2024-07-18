@@ -15,7 +15,7 @@ int main(void) {
     printf("3) Print Balance\n");
     printf("4) Print Balance And Quit\n");
     printf("5) Quit\n");
-    printf("Enter Choice\n");
+    printf("Enter Choice:\n");
     scanf("%d", &choice);
 
     switch (choice) {
