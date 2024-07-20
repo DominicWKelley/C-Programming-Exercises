@@ -1,5 +1,5 @@
-// Portfolio Courses C Programming Examples #62
-// Make all string letters lowercase.
+// Portfolio Courses C Programming Examples #63
+// Fizz buzz.
 
 #include <stdio.h>
 
