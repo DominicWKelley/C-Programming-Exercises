@@ -1,5 +1,5 @@
 // Portfolio Courses C Programming Examples #64
-// Find the highest number in an array.
+// Find the second highest number in an array.
 
 #include <stdio.h>
 
