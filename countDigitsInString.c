@@ -8,7 +8,7 @@
 int count_digits(char *s);
 
 int main(void) {
-  char s[] = "A string with some letters 123456789 !@#$%^&*(";
+  char s[] = "asdfghijlkasdf HFKJHF 123456789 !@#$%^&*(";
 
   int result = count_digits(s);
 
