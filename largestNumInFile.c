@@ -13,7 +13,7 @@ int main(void) {
   double current, max;
   int numbers = 0;
 
-  fh = fopen("file.txt", "r");
+  fh = fopen("max.txt", "r");
 
   if (fh == NULL) {
     printf("Error opening file.\n");
