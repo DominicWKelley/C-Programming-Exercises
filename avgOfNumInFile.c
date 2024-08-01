@@ -1,5 +1,5 @@
-// Portfolio Courses C Programming Examples #70
-// Find the largest number in a file.
+// Portfolio Courses C Programming Examples #71
+// Compute average of numbers in a file.
 
 #include <stdio.h>
 #include <stdlib.h>
