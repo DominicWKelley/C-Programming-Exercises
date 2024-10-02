@@ -3,14 +3,21 @@
 
 #include <stdio.h>
 
-int area(int length, int width);
+void rect(int length, int width, int *area, int *perimeter);
 
 int main(void) {
-  int result = area(10, 5);
+  int area_result = 0;
+  int perimeter_result = 0;
 
-  printf("area: %d\n", result);
+  rect(10, 5, &area_result, &perimeter_result);
+
+  printf("area: %d\n", area_result);
+  printf("perimeter: %d\n", perimeter_result);
 
   return 0;
 }
 
-int area(int length, int width) { return length * width; }
+void rect(int length, int width, int *area, int *perimeter) {
+  *area = length * width;
+  *perimeter = 2 * (length + width);
+}
